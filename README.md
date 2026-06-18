@@ -21,7 +21,7 @@ Golf Mania is a local multiplayer golf game supporting 1–4 players across 7 un
 
 ## Screenshots
 
-![Title Screen](Title_Screen.png)
+![Title Screen](TitleScreen.png)
 ![Stage Select](Stage_Select.png)
 ![Player Select](Player_Select.png)
 ![How To Play](How_to_Play.png)
