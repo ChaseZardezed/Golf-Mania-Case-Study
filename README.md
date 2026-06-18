@@ -22,15 +22,15 @@ Golf Mania is a local multiplayer golf game supporting 1–4 players across 7 un
 ## Screenshots
 
 ![Title Screen](TitleScreen.png)
-![Stage Select](Stage_Select.png)
-![Player Select](Player_Select.png)
-![How To Play](How_to_Play.png)
-![Build Menu](Build_Menu.png)
-![Placing Object](Place_Object.png)
-![Confirmed Placement](Confirm_placement.png)
-![Setting Up Shot](Setting_up_shot_direction_height_and_power.png)
-![Ball in Flight](Ball_Flying_through_air.png)
-![Player Ready to Shoot](Player_1_ready_to_shoot.png)
+![Stage Select](StageSelect.png)
+![Player Select](PlayerSelect.png)
+![How To Play](HowtoPlay.png)
+![Build Menu](BuildMenu.png)
+![Placing Object](PlaceObject.png)
+![Confirmed Placement](ConfirmPlacement.png)
+![Setting Up Shot](SettingUpShot.png)
+![Ball in Flight](BallFlying.png)
+![Player Ready to Shoot](ReadyToShoot.png)
 
 ---
 
