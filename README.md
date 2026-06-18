@@ -83,17 +83,3 @@ Built the title screen, how to play screen, player select, and end-game scoring 
 | Chase (me) | Ball physics, swing system, hole logic, turn sequencing, hazard system, menus, scoring |
 | Teammate | Obstacle placement and build phase system |
 | Teammates | 7 course maps |
-
----
-
-## Courses
-
-| Course | Description |
-|---|---|
-| Bumpy Clearing | Open terrain with uneven ground |
-| Dead Swamp | Murky water hazards throughout |
-| Lost Woods | Dense tree coverage and tight fairways |
-| River Logging | Winding rivers and log obstacles |
-| Rocky Sands | Boulder-filled sandy terrain |
-| Land of Puddles | Water hazards scattered across the course |
-| Floor is Lava | Lava terrain with high risk placement zones |
